@@ -1,9 +1,3 @@
-<h1 align="center">需要进微信群的请加我好友：trampjwl</h1>
-<h2 align="center">----------------------------------------------------------</h2>
-<h2 align="center">航天宏图 还我工资！</h2>
-<h2 align="center">拖欠我的是工资，不是绩效，不是奖金。我走的正常离职，不是被裁，也不是被迫，我只想要回属于我的工资。</h2>
-<h2 align="center">----------------------------------------------------------</h2>
-
 <h1 align="center">Cesium-Examples</h1>
 <h2 align="center">⭐⭐⭐开源不易，求个star⭐⭐⭐</h2>
 <h2 align="center">在线示例 <a target="_blank" href="https://jiawanlong.github.io/Cesium-Examples/">https://jiawanlong.github.io/Cesium-Examples/</a> </h2>
